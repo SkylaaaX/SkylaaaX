@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Skyla Fox
-- 👀 I’m a streamer and an artist
-- 🌱 I’m currently learning coding
-- 📫 How to reach me on discord: .skylaaa
+- 👋 Hi, my name is Skyla Fox
+- 👀 I’m an artist and a wannabe streamer
+- 🌱 Learning how to code :)
+- 📫 Message me on discord: .skylaaa
 
 <!---
 SkylaaaX/SkylaaaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
